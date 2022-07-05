@@ -4,4 +4,6 @@
 h1{
     padding: 16px;
     border: 1px solid gray;
+    background-color: lightcoral;
+    box-shadow: 8px lightgray;
 }
