@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+    padding:0;
+}
 .unordered-list li{
     font-weight: 800;
 }
@@ -6,4 +10,10 @@ h1{
     border: 1px solid gray;
     background-color: lightcoral;
     box-shadow: 8px 8px 8px lightgray;
+}
+footer{
+    text-align: center;
+    background-color:#28447d;
+    padding:2%;
+    color:#fff;
 }
