@@ -1,9 +1,14 @@
 .unordered-list li{
     font-weight: 800;
 }
-h1{
+#header{
     padding: 16px;
     border: 1px solid gray;
     background-color: lightcoral;
-    box-shadow: 8px 8px 8px lightgray;
+    box-shadow: 8px 8px 8px lightgrey;
+    display: flex;
+    align-items: center;
+}
+h1{
+   margin-left: 2%;
 }
