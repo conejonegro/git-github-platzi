@@ -16,3 +16,9 @@ body{
 h1{
    margin-left: 2%;
 }
+footer{
+    text-align: center;
+    background-color:#28447d;
+    padding:2%;
+    color:#fff;
+}
