@@ -1,24 +1,27 @@
-body{
-    margin: 0;
-    padding:0;
+footer {
+  text-align: center;
+  background-color: #1a1a3a;
+  padding: 2%;
+  color: #fff;
 }
-.unordered-list li{
-    font-weight: 800;
+
+#header {
+  background-color: salmon;
+  display: flex;
+  align-items: center;
+  padding: 1%;
 }
-#header{
-    padding: 16px;
-    border: 1px solid gray;
-    background-color: lightcoral;
-    box-shadow: 8px 8px 8px lightgrey;
-    display: flex;
-    align-items: center;
+#header h1 {
+  margin-left: 1em;
 }
-h1{
-   margin-left: 2%;
+
+body {
+  margin: 0;
+  padding: 0;
 }
-footer{
-    text-align: center;
-    background-color:#28447d;
-    padding:2%;
-    color:#fff;
+
+.unordered-list li {
+  font-weight: 800;
 }
+
+/*# sourceMappingURL=styles.css.map */
